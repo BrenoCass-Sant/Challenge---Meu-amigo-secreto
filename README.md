@@ -20,8 +20,8 @@ Adicione os nomes dos participantes e clique no botão para sortear quem será o
 
 ## Como Usar 📑
 1. __*Adicionar nomes*__ ;
-   - Digite o nome de um dos participantes no campo de texto
-   - Clique em "Adicionar" para incluí-lo na lista
+   - Digite o nome de um dos participantes no campo de texto.
+   - Clique em "Adicionar" para incluí-lo na lista.
 2. __*Sortear Amigo Secreto*__ ;
    - Depois de adicionar todos os participantes, clique em "Sortear Amigo".
    - O nome do vencedor será exibido na tela.
