@@ -16,7 +16,7 @@ Adicione os nomes dos participantes e clique no botão para sortear quem será o
 
 - __HTML__ : Estruturação da página.
 - __CSS__ : Estilização e Design responsivo.
-- __JavaScript__ : Lógica
+- __JavaScript__ : Lógica.
 
 ## Como Usar 📑
 1. __*Adicionar nomes*__ ;
