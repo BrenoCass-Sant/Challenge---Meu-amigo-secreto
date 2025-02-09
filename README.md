@@ -1,3 +1,6 @@
+
+![logo amigo secreto](https://github.com/user-attachments/assets/b72cff7d-d6a5-4b2c-9669-7217a3bca105)
+
 # Amigo Secreto 🎉🎁  
 Um projeto simples e interativo para sortear amigos secretos.  
 Adicione os nomes dos participantes e clique no botão para sortear quem será o amigo secreto de cada um!  
@@ -21,9 +24,11 @@ Adicione os nomes dos participantes e clique no botão para sortear quem será o
 ## Como Usar 📑
 1. __*Adicionar nomes*__ ;
    - Digite o nome de um dos participantes no campo de texto.
-   - Clique em "Adicionar" para incluí-lo na lista.
+   - Depois clique em "Adicionar" para incluí-lo na lista.
+     - ![digtando nomes](https://github.com/user-attachments/assets/97e28b1b-c500-4803-a72e-01d21fbc4c12)
 2. __*Sortear Amigo Secreto*__ ;
    - Depois de adicionar todos os participantes, clique em "Sortear Amigo".
    - O nome do vencedor será exibido na tela.
+     - ![Realizando sorteio](https://github.com/user-attachments/assets/183f3cf4-42a6-4715-b9bb-f2f785168bf4)
 3. __*Reiniciar*__ ;
    - Para apagar todos os nomes e realizar um novo sorteio, recarregue a página e adicione os nomes novamente.
